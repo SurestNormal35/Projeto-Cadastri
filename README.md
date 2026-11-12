@@ -12,3 +12,6 @@ O arquivo v0.3 é a versão v0.2 com toda minha parte feita, consegui fazer o si
 
 o que falta: Tela de estoque e a opção de remover um produto.
 
+
+12/11/2026
+Chapei no arquivos, usa a pasta.
